@@ -23,7 +23,7 @@ email: contact@hootingbananastudios.com
 description: >- # this means to ignore newlines until "baseurl:"
   Home of the Hooty-Fruity musa acuminata, developer of AlCHeMoS Game!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.hootingbananastudios.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://hootingbananastudios.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HootingBanana
 #twitter_username: AlCHeMoS_Game
 # github_username:  Roobubba
