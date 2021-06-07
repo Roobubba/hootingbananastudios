@@ -3,7 +3,7 @@ layout: page
 title: AlCHeMoS
 permalink: /AlCHeMoS/
 ---
-![img]({{site.baseurl}}/img/alchemos_library_logo_000.png)
+![img]({{site.baseurl}}/img/alchemos_logo.png)
 
 Enter the unique, sub-microscopic world of AlCHeMoS - a single-player atom-roller game where you explore real 3D protein structures in your quest to restore order and combat the forces of Dark Matter.
 
