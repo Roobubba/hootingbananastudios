@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_logo.png)]({{ site.baseurl }}/AlCHeMoS/)
