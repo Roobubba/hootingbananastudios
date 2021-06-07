@@ -27,7 +27,7 @@ Features:
 * Dynamic music and sounds that adapt as you progress
 
 
-The [AlCHeMoS Demo](https://store.steampowered.com/app/1090590/AlCHeMoS/) will be live between 16 June and 22 June as part of the [Steam Next Fest](https://store.steampowered.com/sale/nextfest).
+The [AlCHeMoS Demo](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs_website) will be live between 16 June and 22 June as part of the [Steam Next Fest](https://store.steampowered.com/sale/nextfest).
 
 ![AlCHeMoS Steam Next Fest Cover Image]({{site.baseurl}}/img/SteamNextFestCoverImage_01.png)
 
