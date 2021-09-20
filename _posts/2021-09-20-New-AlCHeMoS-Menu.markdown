@@ -8,6 +8,7 @@ categories:
 
 Step into the brand-spanking-new Matter and Anti-Matter Authority Laboratory, take control of state-of-the art atomic technology and save humanity!
 
-![AlCHeMoS Menu Screenshot]({{site.baseurl}}/img/AlCHeMoS_menu_01.png)
+[![AlCHeMoS Menu Screenshot]({{site.baseurl}}/img/AlCHeMoS_menu_01.png)](https://www.youtube.com/watch?v=Pdcuf3QEvkA)
+
 
 Join the [Official AlCHeMoS Discord Server](https://discord.gg/t8UTyXe) to get the very latest updates!
