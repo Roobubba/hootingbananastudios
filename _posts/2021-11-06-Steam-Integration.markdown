@@ -4,7 +4,7 @@ title:  "Steam Integration"
 date:   2021-11-06 10:56:51 +0000
 categories: 
 ---
-# Finally it's here, the new laboratory is ready for action!
+# AlCHeMoS now has Steam integration!
 
 AlCHeMoS now features friends-only Leaderboards and Rankings for each level (best time for each completed levels with all side-objectives at 3-stars), Steam Cloud Saves, Stats and Achievements
 
