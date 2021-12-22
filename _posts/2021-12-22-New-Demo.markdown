@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New Demo"
+date:   2021-12-22 20:21:05 +0000
+categories: 
+---
+# New AlCHeMoS Demo with its own Steam Integration is available free!!
+
+Super pleased to announce the new AlCHeMoS Demo, available [free on Steam!](https://store.steampowered.com/app/1654390/AlCHeMoS_Demo/?utm_source=hbs)
+
+The demo features friends leaderboards for each of 6 fully playable levels, specially created to showcase some fo the progression you can expect in the full game.
+
+[![Visit the AlCHeMoS Demo on Steam!]({{site.baseurl}}/img/AlCHeMoS_menu_02.gif)](https://store.steampowered.com/app/1654390/AlCHeMoS_Demo/?utm_source=hbs)
+
+Have you [signed up to the newsletter]({{ site.baseurl }}/newsletter/) yet?
+
