@@ -6,5 +6,4 @@ permalink: /press/
 
 [Download the AlCHeMoS Press Pack]({{site.baseurl}}/press/AlCHeMoS_PressPack_20220130.zip)
 
-Please get in touch with me: contact at hootingbananastudios.com!
-s
+Please get in touch with me if there's anything you need: contact at hootingbananastudios.com!
