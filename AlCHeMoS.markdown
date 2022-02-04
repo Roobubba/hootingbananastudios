@@ -3,7 +3,7 @@ layout: page
 title: AlCHeMoS
 permalink: /AlCHeMoS/
 ---
-![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_header.png)
+![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_logo.png)
 
 AlCHeMoS Release Date: 15 Feb 2022
 Steam (PC)
