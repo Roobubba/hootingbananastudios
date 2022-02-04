@@ -3,7 +3,11 @@ layout: page
 title: AlCHeMoS
 permalink: /AlCHeMoS/
 ---
-![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_logo.png)
+![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_header.png)
+
+AlCHeMoS Release Date: 15 Feb 2022
+Steam (PC)
+[Visit the Steam store page to try out the Demo and wishlist AlCHeMoS!](https://store.steampowered.com/app/1090590/AlCHeMoS/?tum_source=hbs_website)
 
 Enter the unique, sub-microscopic world of AlCHeMoS - a single-player atom-roller game where you explore real 3D protein structures in your quest to restore order and combat the forces of Dark Matter.
 
@@ -25,10 +29,7 @@ Features:
 * Flee from or combat enemy atoms who seek to undergo Fusion with you
 * Fully raymarched environments with beautiful lighting, reflections, shadows and more
 * Dynamic music and sounds that adapt as you progress
+* Unlock ornaments to customise your laboratory workspace
 
-
-The [AlCHeMoS Demo](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs_website) will be live between 16 June and 22 June as part of the [Steam Next Fest](https://store.steampowered.com/sale/nextfest).
-
-![AlCHeMoS Steam Next Fest Cover Image]({{site.baseurl}}/img/SteamNextFestCoverImage_01.png)
 
 Get involved on the [Official AlCHeMoS Discord Server](https://discord.gg/t8UTyXe) to join the beta program and get involved in the development of the game, or just to keep up to date with news and chat!
