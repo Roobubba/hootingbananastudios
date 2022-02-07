@@ -7,7 +7,7 @@ permalink: /AlCHeMoS/
 
 AlCHeMoS Release Date: 15 Feb 2022
 Steam (PC)
-[Visit the Steam store page to try out the Demo and wishlist AlCHeMoS!](https://store.steampowered.com/app/1090590/AlCHeMoS/?tum_source=hbs_website)
+[Visit the Steam store page to try out the Demo and wishlist AlCHeMoS!](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs_website)
 
 Enter the unique, sub-microscopic world of AlCHeMoS - a single-player atom-roller game where you explore real 3D protein structures in your quest to restore order and combat the forces of Dark Matter.
 
