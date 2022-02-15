@@ -9,4 +9,5 @@ NEW: [Click Here]({{ site.baseurl }}/newsletter/) to sign up to the Hooting Bana
 
 [![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_logo.png)]({{ site.baseurl }}/AlCHeMoS/)
 
-[![AlCHeMoS Now Available On Steam]({{site.baseurl}}/img/AlCHeMoS_Launch_01.png)]({{ site.baseurl }}/AlCHeMoS/)
+Get AlCHeMoS:
+[![AlCHeMoS Now Available On Steam]({{site.baseurl}}/img/AlCHeMoS_Launch_01.png)](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs)
