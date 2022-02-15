@@ -10,13 +10,13 @@ AlCHeMoS is Now Available On Steam (PC)! There is also a free demo to try before
 
 Enter the unique, sub-microscopic world of AlCHeMoS - a single-player atomic action/exploration game where you explore real 3D protein structures in your quest to restore order and combat the forces of Dark Matter.
 
-![AlCHeMoS Screenshot Raymarching and Reflections]({{site.baseurl}}/img/AlCHeMoS_Launch_07.png)
 
+[![AlCHeMoS Screenshot Raymarching and Reflections]({{site.baseurl}}/img/AlCHeMoS_Launch_07.png)](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs)
 A mysterious Dark Energy has stolen all the elements!
 
 We need your unique alchemical skills to rediscover the elements, but beware the dangers a lonesome atom faces!
 
-![AlCHeMoS Screenshot Soft Shadows and Smoothed Sphere Intersections]({{site.baseurl}}/img/AlCHeMoS_Launch_03.png)
+[![AlCHeMoS Screenshot Soft Shadows and Smoothed Sphere Intersections]({{site.baseurl}}/img/AlCHeMoS_Launch_03.png)](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs)
 
 Atoms in AlCHeMoS are based on real experimental data for atomic radius, radioactivity and nuclear stability - be careful to avoid becoming radioactive, or undergoing fusion with a larger atom, as you try to unlock powerful atomic abilities in your quest to master the periodic table and restore balance!
 
