@@ -9,5 +9,15 @@ NEW: [Click Here]({{ site.baseurl }}/newsletter/) to sign up to the Hooting Bana
 
 [![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_logo.png)]({{ site.baseurl }}/AlCHeMoS/)
 
+What others are saying about AlCHeMoS:
+
+[*"Whether you are a smart nerd that will appreciate all the scientific effort put into this game or just a regular gamer that wants a fun challenge, AlCHeMoS is definitely worth it." - IndieSkunk*](https://www.indieskunk.com/2022/03/02/alchemos/)
+
+[*"Fantastic sciencey game for cool people and adults." - English Teacher Plays (via YouTube)*](https://www.youtube.com/watch?v=L_cw2mIoHiM)
+
+[*Indies you may have missed: February 2022 - IndieBandits.com*](https://indiebandits.com/2022/02/25/iymhm-02-22/)
+
+[*Top Steam games to try out in March 2022 - Gameskeys.net*](https://gameskeys.net/top-steam-games-to-tryout-in-march-2022/)
+
 Get AlCHeMoS:
 [![AlCHeMoS Now Available On Steam]({{site.baseurl}}/img/AlCHeMoS_Launch_01.png)](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs)
