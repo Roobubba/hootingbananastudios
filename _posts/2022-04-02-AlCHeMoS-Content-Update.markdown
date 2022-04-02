@@ -4,7 +4,7 @@ title:  "AlCHeMoS Content Update"
 date:   2022-04-02 08:04:01 +0000
 categories: 
 ---
-# AlCHeMoS Updated!
+# AlCHeMoS Content Update!
 
 [![AlCHeMoS v1.03 is NOW AVAILABLE ON STEAM!]({{site.baseurl}}/img/AlCHeMoS_Update_00.png)](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs)
 
