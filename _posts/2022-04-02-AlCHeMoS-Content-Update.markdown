@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AlCHeMoS Content Update"
-date:   2022-04-02 10:04:01 +0000
+date:   2022-04-02 08:04:01 +0000
 categories: 
 ---
 # AlCHeMoS Updated!
