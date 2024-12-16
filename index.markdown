@@ -7,7 +7,9 @@ layout: home
 
 NEW: [Click Here]({{ site.baseurl }}/newsletter/) to sign up to the Hooting Banana Studios Newsletter for infrequent, informative news about AlCHeMoS and future projects. Subscribers will also get exclusive in-game goodies from time-to-time, too!
 
-[![AlCHeMoS Logo]({{site.baseurl}}/img/alchemos_logo.png)]({{ site.baseurl }}/AlCHeMoS/)
+[![AlCHeMoS SONiC Logo]({{site.baseurl}}/img/alchemos_capsule_header_102.png)]({{ site.baseurl }}/AlCHeMoS/)
+
+NEW! ALCHEMoS SONiC bundle - all-new Original Game Soundtrack, 11-tracks, more than 45 minutes of reimagined, remixed and remastered game music!
 
 What others are saying about AlCHeMoS:
 
