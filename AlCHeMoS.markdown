@@ -15,11 +15,12 @@ What others are saying about AlCHeMoS:
 
 [*Top Steam games to try out in March 2022 - Gameskeys.net*](https://gameskeys.net/top-steam-games-to-tryout-in-march-2022/)
 
-AlCHeMoS is Now Available On Steam (PC)! There is also a free demo to try before you buy:
+NEW! - [ALCHEMoS SONiC Bundle](https://store.steampowered.com/bundle/48361/ALCHEMoS_SONiC/) released which includes the all-new Original Game Soundtrack (Released 16 Dec 2024).
+
+AlCHeMoS is Available On Steam (PC), along with a free demo to try before you buy:
 [Visit the AlCHeMoS Steam store page!](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs)
 
 Enter the unique, sub-microscopic world of AlCHeMoS - a single-player atomic action/exploration game where you explore real 3D protein structures in your quest to restore order and combat the forces of Dark Matter.
-
 
 [![AlCHeMoS Screenshot Raymarching and Reflections]({{site.baseurl}}/img/AlCHeMoS_Launch_07.png)](https://store.steampowered.com/app/1090590/AlCHeMoS/?utm_source=hbs)
 A mysterious Dark Energy has stolen all the elements!
